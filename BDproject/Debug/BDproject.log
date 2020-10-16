@@ -1,0 +1,8 @@
+﻿  Bron_Menu.cpp
+  Main_Menu.cpp
+  Otchet_Menu.cpp
+  Zakaz_Menu.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Bron_Menu.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BDproject.vcxproj -> F:\Program Files (x86)\Microsoft Visual Studio\VSProjects\BDproject\Debug\BDproject.exe
